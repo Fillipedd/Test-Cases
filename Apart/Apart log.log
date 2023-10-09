@@ -1,0 +1,33 @@
+17:39:09.198 Navigated to https://www.google.com/search?q=apart&rlz=1C1PRFI_enPL876PL876&oq=apart&aqs=chrome..69i57j0i433i512l2j0i131i433i512j0i131i433i650j0i433i512j0i131i433i512j0i433i512j0i131i433i512j0i433i512.12682j0j15&sourceid=chrome&ie=UTF-8
+17:39:09.879 search:1 Unchecked runtime.lastError: The message port closed before a response was received.
+17:39:12.783 Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.
+17:39:12.873 DevTools failed to load source map: Could not load content for https://www.google.com/overlays.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+17:39:12.927 DevTools failed to load source map: Could not load content for https://www.google.com/_/mss/boq-search/_/ss/k=boq-search.VisualFrontendUi.JqN0tfJBPA8.L.B1.O/am=AAAAAAAAAABAABsBYP7_D_4_AvYoAABQfen___8RAiQAAAgHAEDAATAAAJwFAEAAAAAUCABAACqOBxBMAIB0BxBAIASAo4bumwJAAHDgUQIIgBkAAwIUAAAAAEAABAAMeAEIABlmgAABAAAAAIVrHjAgAAAAAAAAAAAAAKikQ1BFAAAAAAAAAAAAgACwSQ/d=1/ed=1/rs=AH7-fg6o975HScMNz0N6-vMN3zuDhLAfMw/chrome.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+17:39:14.237 Navigated to https://www.apart.pl/?gclid=EAIaIQobChMI3ZnytIPkgAMVq5JoCR2kCAGQEAAYASAAEgL6L_D_BwE&gclsrc=aw.ds
+17:39:14.466 Failed parsing 'srcset' attribute value since it has an unknown descriptor.
+17:39:14.466 Dropped srcset candidate "https://ocdn.apart.eu/apart/apart-pl/strona-glowna/2023/horizontal-nav/bransoletki-x2.webp"
+17:39:14.750 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/js/events.js.map: Unexpected end of JSON input
+17:39:15.421 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/scripts/64a58d33c585b9d43753972c/sentry.js.map: Unexpected end of JSON input
+17:39:15.759 DevTools failed to load source map: Could not load content for https://cdn.luigisbox.com/index.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+17:39:15.830 www.apart.pl/:1 Unchecked runtime.lastError: The message port closed before a response was received.
+17:39:16.584 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/scripts/64a58d33c585b9d43753972c/plugin-push.js.map: Unexpected end of JSON input
+17:39:16.617 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/scripts/64a58d33c585b9d43753972c/plugin-beacon.js.map: Unexpected end of JSON input
+17:39:16.886 DevTools failed to load source map: Could not load content for https://cdn2.pushpushgo.com/5a0ed4b8e6a480001137c556/worker.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+17:39:21.830 Navigated to https://www.apart.pl/bizuteria/szukaj?_gl=1*10q7tw9*_up*MQ..&gclid=EAIaIQobChMI3ZnytIPkgAMVq5JoCR2kCAGQEAAYASAAEgL6L_D_BwE&gclsrc=aw.ds
+17:39:21.977 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/js/events.js.map: Unexpected end of JSON input
+17:39:22.891 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/scripts/64a58d33c585b9d43753972c/sentry.js.map: Unexpected end of JSON input
+17:39:23.788 szukaj:1 Unchecked runtime.lastError: The message port closed before a response was received.
+17:39:24.102 DevTools failed to load source map: Could not load content for https://cdn.luigisbox.com/index.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+17:39:25.289 Navigated to https://www.apart.pl/bizuteria/kolczyki-srebrne-ze-szklem-kola/54541?_gl=1*10q7tw9*_up*MQ..&gclid=EAIaIQobChMI3ZnytIPkgAMVq5JoCR2kCAGQEAAYASAAEgL6L_D_BwE&gclsrc=aw.ds
+17:39:25.629 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/js/events.js.map: Unexpected end of JSON input
+17:39:26.468 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/scripts/64a58d33c585b9d43753972c/sentry.js.map: Unexpected end of JSON input
+17:39:26.985 DevTools failed to load source map: Could not load content for https://cdn.luigisbox.com/index.js.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+17:39:27.185 54541:1 Unchecked runtime.lastError: The message port closed before a response was received.
+17:39:28.384 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/scripts/64a58d33c585b9d43753972c/plugin-push.js.map: Unexpected end of JSON input
+17:39:28.395 DevTools failed to load source map: Could not load content for https://cdn.pushpushgo.com/scripts/64a58d33c585b9d43753972c/plugin-beacon.js.map: Unexpected end of JSON input
+17:39:30.089 frontend.js?id=5a8b713364892c6015cc21e148f9e6e0:1 Uncaught DOMException: Failed to execute 'querySelector' on 'Document': 'https://www.apart.pl/bizuteria/kolczyki-srebrne-ze-szklem-kola/54541?_gl=1*10q7tw9*_up*MQ..&gclid=EAIaIQobChMI3ZnytIPkgAMVq5JoCR2kCAGQEAAYASAAEgL6L_D_BwE&gclsrc=aw.ds#check-available-section' is not a valid selector.
+    at HTMLAnchorElement.<anonymous> (https://www.apart.pl/assets/js/frontend.js?id=5a8b713364892c6015cc21e148f9e6e0:1:567771)
+(anonymous) @ frontend.js?id=5a8b713364892c6015cc21e148f9e6e0:1
+17:39:32.098 frontend.js?id=5a8b713364892c6015cc21e148f9e6e0:1 Uncaught DOMException: Failed to execute 'querySelector' on 'Document': 'https://www.apart.pl/bizuteria/kolczyki-srebrne-ze-szklem-kola/54541?_gl=1*10q7tw9*_up*MQ..&gclid=EAIaIQobChMI3ZnytIPkgAMVq5JoCR2kCAGQEAAYASAAEgL6L_D_BwE&gclsrc=aw.ds#check-available-section' is not a valid selector.
+    at HTMLAnchorElement.<anonymous> (https://www.apart.pl/assets/js/frontend.js?id=5a8b713364892c6015cc21e148f9e6e0:1:567771)
+(anonymous) @ frontend.js?id=5a8b713364892c6015cc21e148f9e6e0:1

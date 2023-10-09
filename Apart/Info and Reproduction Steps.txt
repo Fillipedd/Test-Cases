@@ -1,0 +1,23 @@
+OS: Windows 10 Home
+Browser: Chrome
+
+Bug type: Functional
+
+
+Reproduction steps:
+
+1. Open https://www.apart.pl/?gclid=EAIaIQobChMI4ofEqP7jgAMVOZFoCR3SzwFrEAAYASAAEgKlyvD_BwE&gclsrc=aw.ds (sponsored adress)
+2. Click on BIŻUTERIA
+3. Chose any item and click on it
+4. Click on SPRAWDŹ DOSTĘPNOŚĆ I ZAREZERWUJ W SALONIE
+
+
+Expected results:
+
+The site will automaticlly scroll down to the bottom and show the "Sprawdź dostępność w salonie" options
+
+
+Actual Result:
+
+Nothing happened
+
